@@ -75,8 +75,6 @@ My documentation won't sync. I tried Sync Now and restarting the app. Please cre
 
 ## T04 Troubleshooting Resolves the Issue
 
-**Category:** Direct factual retrieval
-
 **Question:**  
 My documentation isn't syncing. What should I do?
 

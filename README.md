@@ -320,7 +320,7 @@ Additional implementation evidence is available in the [`demo/`](demo/) director
 
 - knowledge configuration
 - tool inputs and configuration
-- issuecategory and urgency mapping
+- issue category and urgency mapping
 - Dataverse ticket creation
 - post evaluation ticket records
 - privacy guardrail behavior
